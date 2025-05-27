@@ -8,7 +8,7 @@ The primary goal of making this Work available under the Parameters License is t
 
 ## The Parameters License
 
-The full text of the Parameters License can be found in the [LICENSE.md](LICENSE.md) file.
+The full text of the Parameters License can be found in the [LICENSE.md](https://raw.githubusercontent.com/thoughtparametersllc/Parameters-License/refs/heads/main/LICENSE.md) file.
 
 ### Why This License Was Created
 
@@ -45,11 +45,11 @@ For those interested in a more detailed legal perspective on the structure and i
 
 ## How to Use This Work
 
-1.  **Review the [LICENSE.md](LICENSE.md) carefully.** Your use of the Work is contingent upon your agreement to these terms.
+1.  **Review the [LICENSE.md](https://raw.githubusercontent.com/thoughtparametersllc/Parameters-License/refs/heads/main/LICENSE.md) carefully.** Your use of the Work is contingent upon your agreement to these terms.
 2.  You are permitted to use the Work for **internal Business Assessment and Evaluation Purposes only.**
 3.  **Modifications are not permitted** without explicit prior written consent from Jason Miller.
 4.  **Commercial Branding or creating a Business Relationship Association is not permitted** without a separate, signed Commercial Use Agreement with Jason Miller.
 
 ## Contact
 
-For inquiries regarding permissions beyond the scope of this License, including requests for modification or a Commercial Use Agreement, please contact Jason Miller at [Insert Jason Miller's Preferred Contact Email or Method Here - Placeholder].
+For inquiries regarding permissions beyond the scope of this License, including requests for modification or a Commercial Use Agreement, please contact Jason Miller at jason.miller@thoughtparameters.com .
