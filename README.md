@@ -41,7 +41,7 @@ This license reflects Jason Miller's wishes regarding how his creative works, wh
 
 ## Senior Lawyer's Review of the Parameters License
 
-For those interested in a more detailed legal perspective on the structure and implications of the Parameters License, a review conducted from the viewpoint of a senior lawyer specializing in creative works can be found in the [LAWYER_REVIEW.md](LAWYER_REVIEW.md) file. This review discusses the clarity, enforceability, and overall nature of the license as drafted.
+For those interested in a more detailed legal perspective on the structure and implications of the Parameters License, a review conducted from the viewpoint of a senior lawyer specializing in creative works can be found in the [LAWYER_REVIEW.md](https://raw.githubusercontent.com/thoughtparametersllc/Parameters-License/refs/heads/main/LAWYER-REVIEW.md) file. This review discusses the clarity, enforceability, and overall nature of the license as drafted.
 
 ## How to Use This Work
 
